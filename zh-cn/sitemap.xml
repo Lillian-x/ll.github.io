@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lillian-x.github.io/ll.github.io/zh-cn/authors/</loc>
+    <loc>/zh-cn/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lillian-x.github.io/ll.github.io/authors/"
+                href="/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://lillian-x.github.io/ll.github.io/zh-cn/authors/"
+                href="/zh-cn/authors/"
                 />
   </url><url>
-    <loc>https://lillian-x.github.io/ll.github.io/zh-cn/categories/</loc>
+    <loc>/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lillian-x.github.io/ll.github.io/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://lillian-x.github.io/ll.github.io/zh-cn/categories/"
+                href="/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://lillian-x.github.io/ll.github.io/zh-cn/</loc>
+    <loc>/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lillian-x.github.io/ll.github.io/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://lillian-x.github.io/ll.github.io/zh-cn/"
+                href="/zh-cn/"
                 />
   </url><url>
-    <loc>https://lillian-x.github.io/ll.github.io/zh-cn/series/</loc>
+    <loc>/zh-cn/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lillian-x.github.io/ll.github.io/series/"
+                href="/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://lillian-x.github.io/ll.github.io/zh-cn/series/"
+                href="/zh-cn/series/"
                 />
   </url><url>
-    <loc>https://lillian-x.github.io/ll.github.io/zh-cn/tags/</loc>
+    <loc>/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lillian-x.github.io/ll.github.io/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://lillian-x.github.io/ll.github.io/zh-cn/tags/"
+                href="/zh-cn/tags/"
                 />
   </url>
 </urlset>
